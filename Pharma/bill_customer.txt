@@ -1,0 +1,213 @@
+
+====== Company Name: MyShop ======
+Customer Name: abc
+Customer Mobile: 9898989898
+Date & Time: 2025-08-19 17:47:25
+Payment Type: UPI
+---------------------------------
+Code       Name                 Qty        Price     
+27         cough syrup          2          280.00    
+---------------------------------
+Subtotal: 280.00
+Tax (12%): 33.60
+Grand Total: 313.60
+=================================
+====== Company Name: MyShop ======
+Customer Name: Suresh
+Customer Mobile: 8574921036
+Date & Time: 2025-08-19 23:40:03
+Payment Type: UPI
+-------------------------------------------
+Code       Name                 Qty        Price     
+2          complain             7          630.00    
+15         dove                 2          300.00    
+-------------------------------------------
+Subtotal: 930.00
+Tax (12%): 111.60
+Grand Total: 1041.60
+===========================================
+====== Company Name: MyShop ======
+Customer Name: Suresh
+Customer Mobile: 8574921036
+Date & Time: 2025-08-17 16:09:32
+---------------------------------
+Code       Name                 Qty        Price     
+3          sdc                  2          150.00    
+---------------------------------
+Subtotal: 150.00
+Tax (12%): 18.00
+Grand Total: 168.00
+=================================
+====== Company Name: MyShop ======
+Customer Name: Suresh
+Customer Mobile: 8574921036
+Date & Time: 2025-08-17 16:15:30
+---------------------------------
+Code       Name                 Qty        Price     
+2          complain             2          180.00    
+---------------------------------
+Subtotal: 180.00
+Tax (12%): 21.60
+Grand Total: 201.60
+=================================
+====== Company Name: MyShop ======
+Customer Name: Suresh
+Customer Mobile: 8574921036
+Date & Time: 2025-08-17 16:37:28
+---------------------------------
+Code       Name                 Qty        Price     
+4          urt                  3          198.00    
+15         dove                 2          300.00    
+---------------------------------
+Subtotal: 498.00
+Tax (12%): 59.76
+Grand Total: 557.76
+=================================
+====== Company Name: MyShop ======
+Customer Name: Suresh
+Customer Mobile: 8574921036
+Date & Time: 2025-08-17 16:39:30
+---------------------------------
+Code       Name                 Qty        Price     
+1          dolo                 3          6.00      
+---------------------------------
+Subtotal: 6.00
+Tax (12%): 0.72
+Grand Total: 6.72
+=================================
+====== Company Name: MyShop ======
+Customer Name: Ramesh
+Customer Mobile: 9584710236
+Date & Time: 2025-08-17 17:27:16
+---------------------------------
+Code       Name                 Qty        Price     
+5          uyt                  5          225.00    
+2          complain             3          270.00    
+1          dolo                 2          4.00      
+---------------------------------
+Subtotal: 499.00
+Tax (12%): 59.88
+Grand Total: 558.88
+=================================
+====== Company Name: MyShop ======
+Customer Name: ramesh
+Customer Mobile: 9584710236
+Date & Time: 2025-08-17 17:30:06
+---------------------------------
+Code       Name                 Qty        Price     
+3          sdc                  5          375.00    
+---------------------------------
+Subtotal: 375.00
+Tax (12%): 45.00
+Grand Total: 420.00
+=================================
+====== Company Name: MyShop ======
+Customer Name: ramesh
+Customer Mobile: 9584710236
+Date & Time: 2025-08-17 17:48:15
+---------------------------------
+Code       Name                 Qty        Price     
+5          uyt                  2          90.00     
+---------------------------------
+Subtotal: 90.00
+Tax (12%): 10.80
+Grand Total: 100.80
+=================================
+====== Company Name: MyShop ======
+Customer Name: ramesh
+Customer Mobile: 9584710236
+Date & Time: 2025-08-17 18:59:21
+Payment Type: UPI
+---------------------------------
+Code       Name                 Qty        Price     
+11         mortein              2          190.00    
+---------------------------------
+Subtotal: 190.00
+Tax (12%): 22.80
+Grand Total: 212.80
+=================================
+====== Company Name: MyShop ======
+Customer Name: suresh
+Customer Mobile: 8574921036
+Date & Time: 2025-08-17 19:00:17
+Payment Type: Reward Points
+---------------------------------
+Code       Name                 Qty        Price     
+1          dolo                 3          6.00      
+---------------------------------
+Subtotal: 6.00
+Tax (12%): 0.72
+Grand Total: 6.72
+=================================
+====== Company Name: MyShop ======
+Customer Name: suresh
+Customer Mobile: 8574921036
+Date & Time: 2025-08-17 19:38:46
+Payment Type: UPI
+---------------------------------
+Code       Name                 Qty        Price     
+2          complain             2          180.00    
+5          uyt                  2          90.00     
+---------------------------------
+Subtotal: 270.00
+Tax (12%): 32.40
+Grand Total: 302.40
+=================================
+====== Company Name: MyShop ======
+Customer Name: suresh
+Customer Mobile: 8574921036
+Date & Time: 2025-08-17 21:52:32
+Payment Type: UPI
+---------------------------------
+Code       Name                 Qty        Price     
+20         bonvita              3          210.00    
+---------------------------------
+Subtotal: 210.00
+Tax (12%): 25.20
+Grand Total: 235.20
+=================================
+====== Company Name: MyShop ======
+Customer Name: suresh
+Customer Mobile: 8574921036
+Date & Time: 2025-08-17 23:05:52
+Payment Type: UPI
+---------------------------------
+Code       Name                 Qty        Price     
+2          complain             3          270.00    
+---------------------------------
+Subtotal: 270.00
+Tax (12%): 32.40
+Grand Total: 302.40
+=================================
+====== Company Name: MyShop ======
+Customer Name: abc
+Customer Mobile: 9898989898
+Date & Time: 2025-08-18 11:04:05
+Payment Type: UPI
+---------------------------------
+Code       Name                 Qty        Price     
+20         bonvita              1          70.00     
+1          dolo                 1          2.00      
+3          sdc                  1          75.00     
+---------------------------------
+Subtotal: 147.00
+Tax (12%): 17.64
+Grand Total: 164.64
+=================================
+====== Pharmacy Store ======
+Customer Name: Suresh
+Customer Mobile: 8574921036
+Date & Time: 2025-08-20 15:41:09
+Payment Type: Reward Points
+-------------------------------------------
+Code       Name                 Qty        Price     
+101        juice                2          44.00     
+-------------------------------------------
+Subtotal: 44.00
+Tax (18%): 7.92
+Discount: 0.00
+Grand Total: 51.92
+===========================================
+
+
+

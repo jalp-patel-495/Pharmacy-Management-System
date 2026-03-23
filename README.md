@@ -97,16 +97,8 @@ CREATE DATABASE pharmacy_db;
 
 ---
 
-## 📸 Screenshots
 
-(Add screenshots of your UI screens)
 
-- Login Screen  
-- Dashboard  
-- Inventory  
-- Billing Page
-
----
 
 ## 🚀 Future Improvements
 
